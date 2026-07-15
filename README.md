@@ -1,3 +1,7 @@
+# video explain
+
+https://drive.google.com/file/d/1V7a47PiMg636ZHTgBQWWD3FDU4Mmj96S/view?usp=drivesdk
+
 # oop-wrapper
 
 👔 Employee Management System
